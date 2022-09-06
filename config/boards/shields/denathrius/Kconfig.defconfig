@@ -1,0 +1,6 @@
+if denathrius
+
+config ZMK_KEYBOARD_NAME
+    default "denathrius"
+
+endif
