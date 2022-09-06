@@ -3,7 +3,7 @@ id: denathrius
 name: denathrius
 type: shield
 url: https://github.com/dylanwillis/zmk-gamepad-config/
-requires: [pro_micro]
+requires: [nice_nano_v2]
 exposes: []
 features:
   - keys
