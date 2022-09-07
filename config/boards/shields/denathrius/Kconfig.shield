@@ -1,2 +1,2 @@
-config denathrius
-    def_bool $(shields_list_contains,my_board)
+config SHIELD_DENATHRIUS
+    def_bool $(shields_list_contains,denathrius)
