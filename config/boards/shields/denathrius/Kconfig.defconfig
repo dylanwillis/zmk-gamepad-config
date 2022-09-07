@@ -1,4 +1,4 @@
-if denathrius
+if SHIELD_DENATHRIUS
 
 config ZMK_KEYBOARD_NAME
     default "denathrius"
